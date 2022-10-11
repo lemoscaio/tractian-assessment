@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "634292582e449ca8bfcd80d6",
+    "name": "Unidade 1 da Empresa 1",
+    "company": "6342923b2e449ca8bfcd80c7",
+    "createdAt": "2022-10-09T09:20:24.777Z",
+    "updatedAt": "2022-10-09T09:20:24.777Z",
+    "__v": 0
+  },
+  {
+    "_id": "6342925f2e449ca8bfcd80dc",
+    "name": "Unidade 2 da Empresa 1",
+    "company": "6342923b2e449ca8bfcd80c7",
+    "createdAt": "2022-10-09T09:20:31.308Z",
+    "updatedAt": "2022-10-09T09:20:31.308Z",
+    "__v": 0
+  },
+  {
+    "_id": "63429f721dc3947d5b0b7b29",
+    "name": "Unidade 3 da Empresa 1",
+    "company": "6342923b2e449ca8bfcd80c7",
+    "createdAt": "2022-10-09T10:16:18.904Z",
+    "updatedAt": "2022-10-09T10:16:18.904Z",
+    "__v": 0
+  }
+]

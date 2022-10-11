@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "6342a28b6d777198278a03e3",
+    "image": "https://www.nobrebombas.com.br/imagens/informacoes/bomba-centrifuga-industrial-01.jpg",
+    "name": "Asset 1",
+    "description": "Descrição de uma bomba genérica",
+    "model": "Bombinha industrial que funciona",
+    "owner": "Espero que eu",
+    "status": "Running",
+    "healthLevel": 100,
+    "unit": "63429f721dc3947d5b0b7b29",
+    "createdAt": "2022-10-09T10:29:31.289Z",
+    "updatedAt": "2022-10-09T10:29:31.289Z",
+    "__v": 0
+  },
+  {
+    "_id": "6342a28d6d777198278a03e7",
+    "image": "https://www.nobrebombas.com.br/imagens/informacoes/bomba-centrifuga-industrial-01.jpg",
+    "name": "Asset 2",
+    "description": "Descrição de uma bomba genérica",
+    "model": "Bombinha industrial que funciona",
+    "owner": "Espero que eu",
+    "status": "Alerting",
+    "healthLevel": 30,
+    "unit": "63429f721dc3947d5b0b7b29",
+    "createdAt": "2022-10-09T10:29:33.270Z",
+    "updatedAt": "2022-10-09T10:29:33.270Z",
+    "__v": 0
+  },
+  {
+    "_id": "6342a28f6d777198278a03eb",
+    "image": "https://www.nobrebombas.com.br/imagens/informacoes/bomba-centrifuga-industrial-01.jpg",
+    "name": "Asset 3",
+    "description": "Descrição de uma bomba genérica",
+    "model": "Bombinha industrial que funciona",
+    "owner": "Espero que eu",
+    "status": "Stopped",
+    "healthLevel": 50,
+    "unit": "63429f721dc3947d5b0b7b29",
+    "createdAt": "2022-10-09T10:29:35.315Z",
+    "updatedAt": "2022-10-09T10:29:35.315Z",
+    "__v": 0
+  }
+]

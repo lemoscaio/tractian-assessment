@@ -1,0 +1,9 @@
+{
+  "_id": "6342a29c6d777198278a03f0",
+  "email": "user3@test.com",
+  "password": "$2b$10$doEeCY.G7Km9lnkVXNiwPOpORyLaifZfKIAkXzxVmDsEYEjVdPJwu",
+  "createdAt": "2022-10-09T10:29:48.961Z",
+  "updatedAt": "2022-10-09T10:30:00.949Z",
+  "__v": 0,
+  "company": "6342a2a86d777198278a03f7"
+}
