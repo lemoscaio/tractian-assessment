@@ -127,7 +127,7 @@ export function SignInPage() {
                 <Col type="flex" align="middle" justify="center" span={24}>
                   <Form.Item {...tailFormItemLayout}>
                     <Button type="primary" htmlType="submit">
-                      Register
+                      Login
                     </Button>
                   </Form.Item>
                 </Col>
